@@ -1,6 +1,6 @@
  # Importante
 
-_Acá va un párrafo que describa lo que es el proyecto_
+_Redomiendo descargar todo el contenido .zip_
 
 ## SSH 🚀
 
