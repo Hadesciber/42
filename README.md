@@ -1,6 +1,6 @@
  # Importante
 
-_Redomiendo descargar todo el contenido .zip_
+### _Redomiendo descargar todo el contenido del GitHub en formato .zip_
 
 ## SSH 🚀
 
